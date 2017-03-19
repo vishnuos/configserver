@@ -1,3 +1,5 @@
 application:
     profile: dev
+ registry-server:
+    name: vishnuregister
   
